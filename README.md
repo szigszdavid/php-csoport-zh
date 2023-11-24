@@ -38,7 +38,7 @@
     - b\. (0,5 pont) Validáld a keresztnevet: legyen kitöltve. 
     - c\. (0,5 pont) Validáld az email címet: `legyen kitöltve és legyen valid emailcím` *Tipp: használd a FILTER_VALIDATE_EMAIL-t*
     - d\. (1 pont) Validáld a házat: `ki van-e választva valami és az helyes-e`
-    - e\. (0,5 pont) A form legyen állapottartó!
+    - e\. (0,5 pont) A form legyen állapottartó (kivéve a házválasztó select)!
     - f\. (0,5 pont) Elküldésnél, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek bárhol az oldalon  
     - g\. (0,5 pont) Elküldésnél, ha valami nincs helyesen kitöltve, jelenjenek meg a hibaüzenetek az egyes input mezők mellett
     - h\. (2 pont) Elküldésnél, ha minden helyesen van kitöltve, egészítsd ki a `data.json` fájlt az új adat mentésével:
