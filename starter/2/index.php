@@ -16,7 +16,7 @@
 
     <form action="" method="post">
         <label for="firstName">Vezetéknév:</label>
-        <input type="text" name="name" id="name">
+        <input type="text" name="firstName" id="name">
         <br>
         <label for="lastName">Keresztnév:</label>
         <input type="text" name="lastName" id="name">
