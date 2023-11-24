@@ -31,7 +31,7 @@
     - a\. (1,5 pont) Jelenítsd meg a diákok nevét és a patrónusát egy táblázatban!
     - b\. (1 pont) A táblázat sorai legyenek olyan háttérszínűek, mint ami a háznak megfelelő szín a `colors`-ban!
     - b\. (1 pont) Keressd meg, melyik ház diákjaiból vannak a legtöbben, írd ki a ház nevét, és az oldal háttérszínét állítsd át az aszerinti értékre. (a `colors`-ban vannak az egyes színek) 
-    - c\. (0,5 pont) A Táblázat alá írd ki annak a diáknak a nevét, akinek nyúl a patronusa!
+    - c\. (0,5 pont) A Táblázat alá írd ki annak a diáknak a nevét, akinek nyúl a patrónusa!
 
 2. **Felvétel a Roxfortba (6 pont)** Készíts egy regisztációs felületet, ahol meg tudsz adni egy nevet, egy emailcímet és ki tudod választani egy roxforti házat.
     - a\. (0,5 pont) Validáld a vezetéknevet: legyen kitöltve.
